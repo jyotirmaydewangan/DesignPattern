@@ -5,6 +5,7 @@ package com.dewangan.jyotirmay.simpleFactory;
  */
 public class SimpleFactoryDemo {
     public static void main(String[] arg){
+
         Door door = DoorFactory.makeDoor(12, 4);
 
         System.out.println("Door height = " + door.getHeight());
