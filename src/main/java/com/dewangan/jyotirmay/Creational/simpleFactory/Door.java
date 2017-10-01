@@ -1,4 +1,4 @@
-package com.dewangan.jyotirmay.simpleFactory;
+package com.dewangan.jyotirmay.Creational.simpleFactory;
 
 /**
  * Created by jyotirmay.d on 30/09/17.
